@@ -1,0 +1,4 @@
+Follow the RUN code to see the call path of the spectra line generator. 
+This was written in collaboration with Dr. Keith Earle and ported then expanded by Troy Brodericks for Thesis research.
+
+Intent is to fit signal spectra with a model lineshape using techniques of maximum entropy.
